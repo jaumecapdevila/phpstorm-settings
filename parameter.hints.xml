@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\number_format(num,decimals,decimal_separator,thousands_separator)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
