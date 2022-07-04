@@ -11,10 +11,10 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>!*.txt</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
