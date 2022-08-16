@@ -1,11 +1,24 @@
 <scheme name="_@user_Halcyon" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-07-15T09:15:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.1.3.0.0</property>
-    <property name="modified">2022-07-27T10:25:00</property>
+    <property name="modified">2022-08-16T13:13:51</property>
     <property name="originalScheme">Halcyon</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="d7dce2" />
     <option name="CARET_ROW_COLOR" value="2f3b54" />
@@ -155,9 +168,6 @@
       <value>
         <option name="FOREGROUND" value="bae67e" />
       </value>
-    </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-      <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
