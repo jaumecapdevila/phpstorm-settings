@@ -1,8 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <internal_templates>
-      <template name="Magento ACL XML.xml" file-name="acl.xml" reformat="true" live-template-enabled="false" enabled="true" />
-      <template name="Magento DI XML.xml" file-name="di.xml" reformat="true" live-template-enabled="false" enabled="true" />
-    </internal_templates>
-  </component>
-</application>
