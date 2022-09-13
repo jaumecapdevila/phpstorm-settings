@@ -1,31 +1,11 @@
 <scheme name="_@user_SynthWave '84 (Material)" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-08-19T15:49:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-19T15:49:03</property>
+    <property name="modified">2022-09-13T17:17:36</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="206d4b" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
